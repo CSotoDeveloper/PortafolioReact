@@ -1,0 +1,38 @@
+[
+    {
+        "role": "Analista de Logística",
+        "organisation": "Vansat",
+        "startDate": "18/01/2024",
+        "endDate": "10/08/2024",
+        "experiences": [
+            "Desarrollo de dashboards interactivos para la visualización de datos mediante Power BI.",
+            "Automatización de reportes mediante VBA para optimizar procesos internos.",
+            "Mantenimiento y administración de bases de datos, garantizando su integridad y disponibilidad."
+        ],
+        "imageSrc": "history/vansat.png"
+    },
+    {
+        "role": "Desarrollador de Software Junior & Auxiliar de Análisis de Datos",
+        "organisation": "Recargacel",
+        "startDate": "15/01/2023",
+        "endDate": "19/12/2023",
+        "experiences": [
+            "Automatización de reportes empresariales utilizando VBA, mejorando la eficiencia operativa.",
+            "Desarrollo de aplicaciones CRUD utilizando JavaScript, Express.js y SQL Server para la gestión de datos.",
+            "Integración de bases de datos SQL con Power BI para la creación de informes dinámicos y análisis visual."
+        ],
+        "imageSrc": "history/oiracel.png"
+    },
+    {
+        "role": "Desarrollador de Software & Analista de Datos",
+        "organisation": "Freelance",
+        "startDate": "12/02/2022",
+        "endDate": "Presente",
+        "experiences": [
+            "Desarrollo de SPA, utilizando React y Tailwind CSS, enfocado en la experiencia de usuario.",
+            "Análisis de datos mediante para apoyar la toma de decisiones de clientes.",
+            "Desarrollo y mantenimiento de un sistema ERP para la gestión de recursos y operaciones de pequeñas empresas."
+        ],
+        "imageSrc": "history/freelance.png"
+    }
+]
